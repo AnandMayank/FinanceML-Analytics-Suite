@@ -1,0 +1,4 @@
+# Install the required modules
+scikit-learn xgboost
+yfinance
+finta
