@@ -52,7 +52,7 @@ data/
 datasets/
 
 # Model Files
-models/
+
 *.model
 *.joblib
 *.sav
